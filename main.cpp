@@ -5,6 +5,6 @@ import time
 using namespace std;
 
 int main() {
-	cout << "Xin chao!";
+	cout << "Hello World";
 	return 0;
 }
